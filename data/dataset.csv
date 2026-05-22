@@ -1,0 +1,3 @@
+timestamp,user_id,username,q_gender,q_age,q_personality,q_show_type,q_episodes,q_humor_style,q_humor_type,q_stage_style,q_emotions,q_rest,q_social,q_decisions,q_chronotype,q_food_philosophy,model_prediction,user_choice,is_match
+2026-05-22 16:49:04,5005980813,Mementosatori,Мужской,21,Экстраверт,Не люблю,Старые,Тихий сарказм,Ирония,Хаос и импровизация на сцене,Открыто,Активный отдых,Да,Логика,Жаворонок,"Вы едите, чтобы жить?",yaritsa,rozhkov,0
+2026-05-22 17:13:51,5005980813,Mementosatori,Мужской,21,Экстраверт,Не люблю,Старые,Тихий сарказм,Метаирония,Хаос и импровизация на сцене,Открыто,Активный отдых,Да,Логика,Жаворонок,"Вы едите, чтобы жить?",korneva,korneva,1

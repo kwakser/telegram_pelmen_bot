@@ -1,0 +1,4 @@
+aiogram==3.13.1
+python-dotenv==1.0.1
+scikit-learn>=1.3.0   # если используешь sklearn модель
+# torch>=2.0.0        # раскомментируй если PyTorch
